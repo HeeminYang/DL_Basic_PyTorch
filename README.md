@@ -4,9 +4,9 @@
 This record is write for the task about translation that written by Tensorflow code to PyTorch in the special lecture took place in early 2023.      
 
 ### Composition of file
-day1_FNN_housing
-day2_FNN_MNIST
-day2_FNN_text_sentiment
-day3_LSTM
-day3_Stacked_RNN_imdb
-day4_Trandformer_Bert_imdb_example
+day1_FNN_housing.ipynb  
+day2_FNN_MNIST.ipynb  
+day2_FNN_text_sentiment.ipynb  
+day3_LSTM.ipynb  
+day3_Stacked_RNN_imdb.ipynb  
+day4_Trandformer_Bert_imdb_example.ipynb  
